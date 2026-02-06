@@ -170,7 +170,7 @@ API anahtarını kopyalayın ve Telegram sohbeti aracılığıyla botunuza gönd
 
 ![tele-chat4](https://github.com/user-attachments/assets/ffe1c06e-af0c-40a6-a715-1309ba8cc7c4)
 
-Bu sayede botumuz artık web'de de arama yapabiliyor ve verdiğimiz görevleri yerine getirme yeteneği artıyor. Dilerseniz kişisel asistanınızın, size diğer insanlardan gelen mesajları cevaplaması gibi üst düzey asistan özelliklerini dahi ekleyebilirsiniz lakin bu başka bir rehberin konusu :)
+Bu sayede botumuz artık web'de de arama yapabiliyor ve verdiğimiz görevleri yerine getirme yeteneği artıyor. 
 
 
 
